@@ -1,0 +1,5 @@
+CAMERASHAKE = {
+	FULL = 0,
+	SIDE = 1,
+	VERTICAL = 2,
+}
